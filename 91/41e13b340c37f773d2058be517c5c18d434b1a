@@ -1,0 +1,21 @@
+.github/workflows/ci.yml
+  s_e3e42e6a079683::t_eb2916a9315cdb 1-79
+docker-compose.yml
+  s_e3e42e6a079683::t_3a1b35b7cd0620 1-22
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.8",
+  "base_commit_sha": "9141e13b340c37f773d2058be517c5c18d434b1a",
+  "prompts": {},
+  "sessions": {
+    "s_e3e42e6a079683": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "ed77fc91-69b7-4b06-a85a-55106f4f516b",
+        "model": "claude-sonnet-4-6"
+      },
+      "human_author": "rrobles_meli <renzo.robles@mercadolibre.com>"
+    }
+  }
+}
